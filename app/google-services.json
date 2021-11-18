@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313969627570",
+    "project_id": "covcatch",
+    "storage_bucket": "covcatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313969627570:android:1b5dd56d23e0d30f3314ab",
+        "android_client_info": {
+          "package_name": "com.ytosko.covcatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313969627570-qi0adbjuua7e9ji519rmlohvs0jloea3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ytosko.covcatch",
+            "certificate_hash": "461bfbb0ac71eb7d1072173c28d903ae84f62b4c"
+          }
+        },
+        {
+          "client_id": "313969627570-a90aos1tk2vd5lukv26u576m0b2j0521.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJgy_ozeFrBD4SEkv-pwi7mNaUpNN6kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313969627570-a90aos1tk2vd5lukv26u576m0b2j0521.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
