@@ -38,7 +38,7 @@ On 1930s a new virus turned into determined which become a raspatory infection o
 
 ## Paper Livk 
 
-* [Scholar Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sw-4dkcAAAAJ&citation_for_view=sw-4dkcAAAAJ:K3LRdlH-MEoC)
+* [Scholar Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sw-4dkcAAAAJ&citation_for_view=sw-4dkcAAAAJ:tOudhMTPpwUC)
 * PDF: [Raw_Paper.pdf](https://github.com/Ytosko/CovCatch/files/11346975/Me.main.pdf)
 
 
