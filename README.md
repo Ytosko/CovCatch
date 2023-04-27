@@ -23,121 +23,22 @@ On 1930s a new virus turned into determined which become a raspatory infection o
 <img src="https://user-images.githubusercontent.com/43275869/234960684-ec7d5e5a-109b-4ea0-8bb0-f6a08fecb1b1.png" height='300'/> <img src="https://user-images.githubusercontent.com/43275869/234960707-cfc2eaaa-6764-47f1-b6c4-ff60c4c641e6.png" height='300'/>
 
 
-## Dependencies
+## Dependencies [Focused]
 
-    implementation fileTree(dir: "libs", include: ["*.jar"])
-    implementation 'androidx.appcompat:appcompat:1.3.1'
-    implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
-    implementation 'androidx.cardview:cardview:1.0.0'
-    implementation 'androidx.navigation:navigation-fragment:2.3.5'
-    implementation 'androidx.navigation:navigation-ui:2.3.5'
-    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-    implementation 'com.google.android.gms:play-services-maps:18.0.0'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-    implementation platform('com.google.firebase:firebase-bom:29.0.0')
-    implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.google.android.gms:play-services-nearby:18.0.0'
-    implementation 'com.google.firebase:firebase-core:20.0.0'
-    implementation 'com.google.firebase:firebase-auth:21.0.1'
-    implementation 'com.google.firebase:firebase-database:20.0.2'
-    implementation 'com.google.firebase:firebase-messaging:23.0.0'
-    implementation 'com.google.firebase:firebase-firestore:24.0.0'
-    25
-    implementation 'com.google.firebase:firebase-functions:20.0.1'
-    testImplementation 'junit:junit:4.12'
-    implementation('com.github.ViksaaSkool:AwesomeSplash:v1.0.0') {
-    exclude group: 'com.android.support'
-    }
-    implementation 'com.github.markushi:circlebutton:1.1'
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    testImplementation 'junit:junit:4.12'
-    implementation 'com.weiwangcn.betterspinner:library-material:1.1.0'
-    implementation 'com.google.android.material:material:1.5.0-beta01'
-    implementation 'com.firebaseui:firebase-ui-auth:4.3.1'
-    implementation 'com.firebase:firebase-client-android:2.5.2'
-    implementation 'com.facebook.android:facebook-androidsdk:
-    latest.release'
-    //noinspection GradleCompatible
-    implementation 'com.android.support:recyclerview-v7:29.0.0'
-    //noinspection GradleCompatible
-    implementation 'com.android.support:cardview-v7:29.0.0'
-    implementation 'com.android.support:multidex:1.0.3'
-    // FirebaseUI for Firebase Realtime Database
-    implementation 'com.firebaseui:firebase-ui-database:6.0.2'
-    // FirebaseUI for Cloud Firestore
-    implementation 'com.firebaseui:firebase-ui-firestore:6.0.2'
-    // FirebaseUI for Firebase Auth
-    implementation 'com.firebaseui:firebase-ui-auth:6.0.2'
-    // FirebaseUI for Cloud Storage
-    implementation 'com.firebaseui:firebase-ui-storage:6.0.2'
-    implementation 'androidx.appcompat:appcompat:1.3.1'
-    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'de.hdodenhof:circleimageview:3.1.0'
-    implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'
-    implementation 'com.nineoldandroids:library:2.4.0'
-    implementation 'com.android.volley:volley:1.2.1'
-    implementation 'com.leo.simplearcloader:simplearcloader:1.0.+'
-    implementation 'com.google.android.gms:play-services-location:18.0.0'
-    implementation 'net.igenius:customcheckbox:1.3'
-    implementation 'com.google.android.flexbox:flexbox:3.0.0'
-    implementation 'net.danlew:android.joda:2.10.12.2'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+* Firebase
+* Googele Nearby API
 	
 
-## User permission
+## User permission [Focused]
 
+* Bluetooth
+* Network state
+* Location
+* Background usage
 
+## Paper Livk 
 
-    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE"/>
-    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
-    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
-    <uses-permission android:name="android.permission.VIBRATE" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR"/>
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.READ_CALL_LOG" />
-    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
-    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
-    <uses-permission
-    android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-    <uses-permission android:name="android.permission.SEND_SMS" />
-    <uses-permission
-    android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission
-    android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-feature
-    android:name="android.hardware.microphone"
-    android:required="false" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission
-    android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission
-    android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_CONTACTS" />
-    <uses-permission android:name="android.permission.RECEIVE_SMS" />
-    <uses-permission android:name="android.permission.READ_SMS" />
-    <uses-permission android:name="android.permission.SEND_SMS" />
-    <uses-permission
-    android:name="android.permission.BLUETOOTH"
-    android:required="true" />
-    <uses-permission
-    android:name="android.permission.BLUETOOTH_ADMIN"
-    android:required="true" />
-    <uses-feature
-    android:name="android.hardware.bluetooth_le"
-    android:required="true" />
-    <uses-permission
-    android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission
-    android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-	
+* [Scholar Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sw-4dkcAAAAJ&citation_for_view=sw-4dkcAAAAJ:K3LRdlH-MEoC)
+* PDF: [Raw_Paper.pdf](https://github.com/Ytosko/CovCatch/files/11346975/Me.main.pdf)
 
 
