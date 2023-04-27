@@ -5,22 +5,28 @@ On 1930s a new virus turned into determined which become a raspatory infection o
 ## Screenshots
 
 * Login page with blueprint
-<img src="https://user-images.githubusercontent.com/43275869/234958857-7b5bafd3-7ba3-4b82-b9b2-6041b9282f2e.png" width="600">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43275869/234958857-7b5bafd3-7ba3-4b82-b9b2-6041b9282f2e.png" width="600"></p>
 
 
 #
 * Infograph
-
-![image](https://user-images.githubusercontent.com/43275869/234959171-459e7335-6009-43ca-ab2f-d63ffba6a390.png)  ![image](https://user-images.githubusercontent.com/43275869/234959237-18f053a4-f395-4fa4-864b-37e38c0a3748.png)  ![image](https://user-images.githubusercontent.com/43275869/234959265-6af8882a-21d1-463d-ad78-4c09674fe3b9.png)  ![image](https://user-images.githubusercontent.com/43275869/234959287-1ebef5ea-aef7-4f51-94ca-5cdc83c54ad0.png) 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43275869/234959171-459e7335-6009-43ca-ab2f-d63ffba6a390.png" width='300'/>  
+<img src="https://user-images.githubusercontent.com/43275869/234959237-18f053a4-f395-4fa4-864b-37e38c0a3748.png" width='300'/>  
+<img src="https://user-images.githubusercontent.com/43275869/234959265-6af8882a-21d1-463d-ad78-4c09674fe3b9.png" width='300'/>  
+<img src="(https://user-images.githubusercontent.com/43275869/234959287-1ebef5ea-aef7-4f51-94ca-5cdc83c54ad0.png" width='300'/> </p>
 
 #
 * Home Page / World Stat of Covid 19
-<img src="https://user-images.githubusercontent.com/43275869/234960127-5f38d076-531f-4c64-847e-d7e72c3f8834.png" width="300">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43275869/234960127-5f38d076-531f-4c64-847e-d7e72c3f8834.png" width="300"></p>
 
 #
 * Isolation Mode & Covid Result
-
-<img src="https://user-images.githubusercontent.com/43275869/234960684-ec7d5e5a-109b-4ea0-8bb0-f6a08fecb1b1.png" height='300'/> <img src="https://user-images.githubusercontent.com/43275869/234960707-cfc2eaaa-6764-47f1-b6c4-ff60c4c641e6.png" height='300'/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43275869/234960684-ec7d5e5a-109b-4ea0-8bb0-f6a08fecb1b1.png" height='300'/> 
+<img src="https://user-images.githubusercontent.com/43275869/234960707-cfc2eaaa-6764-47f1-b6c4-ff60c4c641e6.png" height='300'/></p>
 
 
 ## Dependencies [Focused]
